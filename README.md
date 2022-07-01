@@ -33,6 +33,10 @@ Descitpion: Data set that has sales (Item_Outlet_Sales) by item with a number of
 
 #### Visual 2 Title
 
+![image](https://user-images.githubusercontent.com/104700955/176902544-9e3ea546-06c6-4185-8a5e-e69b741bd91b.png)
+
+
+
 ## Model
 
 The final model(s) tested to predict the Sales (Item_Outlet_Sales) are 1 Linear Regression model and 1 Decision Tree model.
