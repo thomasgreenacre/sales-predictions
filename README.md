@@ -5,16 +5,20 @@
 
 ### Business problem:
 
-Here is where you state the business problem you were trying to solve
+To Create a model that accurately predicts Sales based on historical data and machine learning techniques
 
 
 ### Data:
-Data can include source and high-level description (e.g. # obs)
+Source: sales_predictions (1).csv
+Descitpion: Data set that has sales (Item_Outlet_Sales) by item with a number of features including Item_MRP, Item_Visibility, Outlet_Size, etc.
 
 
-## Methods
-- Data preparation steps with explanation and justification for choices
-- 
+## Methods (Data preparation steps)
+- duplicate rows
+- missing data
+- cleaned any fields where approapriate to solve for similar value naming conventions
+- nomininal encoded mean values for missing data on features with numeric (int, float) data type
+- OneHot encoded the most frequent values for missing data on features with object data type
 
 ## Results
 
