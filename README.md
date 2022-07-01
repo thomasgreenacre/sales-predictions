@@ -37,13 +37,21 @@ Descitpion: Data set that has sales (Item_Outlet_Sales) by item with a number of
 
 The final model(s) tested to predict the Sales (Item_Outlet_Sales) are 1 Linear Regression model and 1 Decision Tree model.
 
-The most important metric is the R^2 which was used to evaulate how well the models would accurately predict Sales (Item_Outlet_Sales)
+The most important metric is the R-Squared (R2) which was used to evaulate how well the models would accurately predict Sales (Item_Outlet_Sales)
 
 Additinal metric used to evaluate the models was the Root Mean Squared Error (RMSE)
 
 ## Recommendations:
 
-More of your own text here
+Based on the R2 scores used to evaluate both models (see below); the Decision Tree Model should be impletemented
+
+Linear Regression R2 Scores
+*   Train: 0.560543
+*   Test: 0.565847
+
+Decisions Tree R2 Scores
+*   Train: 0.603925
+*   Test: 0.594747
 
 
 ## Limitations & Next Steps
