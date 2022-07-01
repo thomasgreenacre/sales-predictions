@@ -27,7 +27,8 @@ Descitpion: Data set that has sales (Item_Outlet_Sales) by item with a number of
 
 
 #### Feature Correlation Heatmap
-[Heatmap](https://user-images.githubusercontent.com/104700955/176901792-51534536-c86b-44f4-87d4-fb306d99a9fe.png)
+
+![image](https://user-images.githubusercontent.com/104700955/176902787-08c2a6eb-a7b2-472b-8fd1-f377b33a294d.png)
 
 > this visual shows the relationship (correlation) between the different features in the dataset
 
