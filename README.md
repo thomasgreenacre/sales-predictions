@@ -32,11 +32,11 @@ Descitpion: Data set that has sales (Item_Outlet_Sales) by item with a number of
 
 > this visual shows the relationship (correlation) between the different features in the dataset
 
-#### Visual 2 Title
+#### Item MRP Box Plot
 
 ![image](https://user-images.githubusercontent.com/104700955/176902544-9e3ea546-06c6-4185-8a5e-e69b741bd91b.png)
 
-
+this visual shows the range of values for the Item MRP feature represented by a Box Plot
 
 ## Model
 
