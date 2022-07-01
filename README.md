@@ -10,12 +10,13 @@ To Create a model that accurately predicts Sales based on historical data and ma
 
 ### Data:
 Source: sales_predictions (1).csv
+
 Descitpion: Data set that has sales (Item_Outlet_Sales) by item with a number of features including Item_MRP, Item_Visibility, Outlet_Size, etc.
 
 
 ## Methods (Data preparation steps)
-- duplicate rows
-- missing data
+- check & remove (if needed) duplicate rows
+- Checking & address any missing data
 - cleaned any fields where approapriate to solve for similar value naming conventions
 - nomininal encoded mean values for missing data on features with numeric (int, float) data type
 - OneHot encoded the most frequent values for missing data on features with object data type
@@ -34,11 +35,11 @@ Descitpion: Data set that has sales (Item_Outlet_Sales) by item with a number of
 
 ## Model
 
-Describe your final model
+The final model(s) tested to predict the Sales (Item_Outlet_Sales) are 1 Linear Regression model and 1 Decision Tree model.
 
-Report the most important metrics
+The most important metric is the R^2 which was used to evaulate how well the models would accurately predict Sales (Item_Outlet_Sales)
 
-Refer to the metrics to describe how well the model would solve the business problem
+Additinal metric used to evaluate the models was the Root Mean Squared Error (RMSE)
 
 ## Recommendations:
 
@@ -53,4 +54,4 @@ More of your own text here
 ### For further information
 
 
-For any additional questions, please contact **email**
+For any additional questions, please contact **thomas.greenacre@gmail.com**
