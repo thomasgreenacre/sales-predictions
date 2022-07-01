@@ -5,7 +5,7 @@
 
 ### Business problem:
 
-To Create a model that accurately predicts Sales based on historical data and machine learning techniques
+To create a model that accurately predicts Sales based on historical data and machine learning techniques
 
 
 ### Data:
@@ -22,9 +22,6 @@ Descitpion: Data set that has sales (Item_Outlet_Sales) by item with a number of
 - OneHot encoded the most frequent values for missing data on features with object data type
 
 ## Results
-
-### Here are examples of how to embed images from your sub-folder
-
 
 #### Feature Correlation Heatmap
 
@@ -61,7 +58,7 @@ Decisions Tree R2 Scores
 
 ## Limitations & Next Steps
 
-More of your own text here
+Both models coulds be improved with more data and/or features. Next step to improve the data set used and re-run prediction models to improve overal R2 scores.
 
 
 ### For further information
