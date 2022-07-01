@@ -26,9 +26,10 @@ Descitpion: Data set that has sales (Item_Outlet_Sales) by item with a number of
 ### Here are examples of how to embed images from your sub-folder
 
 
-#### Visual 1 Title
+#### Feature Correlation Heatmap
 [Heatmap](https://user-images.githubusercontent.com/104700955/176901792-51534536-c86b-44f4-87d4-fb306d99a9fe.png)
-> Sentence about visualization.!
+
+> this visual shows the relationship (correlation) between the different features in the dataset
 
 #### Visual 2 Title
 
