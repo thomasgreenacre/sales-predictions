@@ -27,9 +27,8 @@ Descitpion: Data set that has sales (Item_Outlet_Sales) by item with a number of
 
 
 #### Visual 1 Title
-![sample image](project1_sample_image.png)
-
-> Sentence about visualization.
+[Heatmap](https://user-images.githubusercontent.com/104700955/176901792-51534536-c86b-44f4-87d4-fb306d99a9fe.png)
+> Sentence about visualization.!
 
 #### Visual 2 Title
 
